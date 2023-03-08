@@ -1,0 +1,14 @@
+body{
+  
+  background-image: url("./p2.png");
+background-repeat: repeat;
+   background-size: cover;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.load
+{
+  backdrop-filter: blur(48px);
+}
